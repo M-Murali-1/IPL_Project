@@ -1,0 +1,52 @@
+{
+  "2008": {
+    "Runs": 165,
+    "Balls": 168,
+    "StrikeRate": "98.21"
+  },
+  "2009": {
+    "Runs": 246,
+    "Balls": 225,
+    "StrikeRate": "109.33"
+  },
+  "2010": {
+    "Runs": 307,
+    "Balls": 216,
+    "StrikeRate": "142.13"
+  },
+  "2011": {
+    "Runs": 557,
+    "Balls": 473,
+    "StrikeRate": "117.76"
+  },
+  "2012": {
+    "Runs": 364,
+    "Balls": 333,
+    "StrikeRate": "109.31"
+  },
+  "2013": {
+    "Runs": 639,
+    "Balls": 471,
+    "StrikeRate": "135.67"
+  },
+  "2014": {
+    "Runs": 359,
+    "Balls": 301,
+    "StrikeRate": "119.27"
+  },
+  "2015": {
+    "Runs": 505,
+    "Balls": 395,
+    "StrikeRate": "127.85"
+  },
+  "2016": {
+    "Runs": 973,
+    "Balls": 655,
+    "StrikeRate": "148.55"
+  },
+  "2017": {
+    "Runs": 308,
+    "Balls": 257,
+    "StrikeRate": "119.84"
+  }
+}
